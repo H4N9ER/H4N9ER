@@ -26,7 +26,7 @@ Details and other informations are [here]().
 
 ---
 
-### How to reach me
+### Reach me
 
-* via [Gmail](mailto:ehdgk0900@gmail.com)
+* [Gmail](mailto:ehdgk0900@gmail.com)
 
