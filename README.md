@@ -20,7 +20,7 @@ Some infrastructures,
 
 And some other interesting skills.
 
-* Spring, PostgreSQL, Helm
+* Spring, PostgreSQL, etc.
 
 Details and other informations are [here](/docs/portfolio.md).
 
