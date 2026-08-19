@@ -4,7 +4,6 @@
 
 [ehdgk0900@gmail.com](mailto:ehdgk0900@gmail.com) · [Github](https://github.com/h4n9er)
 
-
 ## Skills
 
 * Programming Language: C++, C#, Java, Python, PHP

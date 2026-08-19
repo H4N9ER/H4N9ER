@@ -12,17 +12,17 @@ Wannabe game developer. Planning to learn [Godot](https://github.com/godotengine
 
 Some programming languages,
 
-* C++ (self-taught), C#, Python, Java, PHP
+* C++ (self-taught), C#, Python, Java
 
 Some infrastructures,
 
 * AWS, Kubernetes, Docker
 
-And some backend tech.
+And some other interesting skills.
 
-* Apache Tomcat, Spring MVC
+* Spring, PostgreSQL, Helm
 
-Details and other informations are [here]().
+Details and other informations are [here](/docs/portfolio.md).
 
 ---
 
