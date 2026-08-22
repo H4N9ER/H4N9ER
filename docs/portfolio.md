@@ -29,4 +29,4 @@
 ## Education
 
 * University of Seoul, Republic of Korea
-   * Bachelor of Science in ***Computer Science***, Aug 2026 (expected)
+   * Bachelor of Science in ***Computer Science***, Aug 2026
